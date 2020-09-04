@@ -1,2 +1,2 @@
 # rubygame
-![all_text].(ScreenDemo/Demo.PNG)
+![all_text].(ScreenDemo/Demo.png)
